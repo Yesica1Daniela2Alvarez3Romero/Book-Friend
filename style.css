@@ -1,0 +1,75 @@
+body{
+    margin: 0%;
+    padding: 2%;
+    background-color: rgb(226, 245, 228);
+    background-size: contain;
+    display: flex;
+    backdrop-filter: blur(4px);
+  
+     
+  
+      
+      color: rgb(0, 0, 0);
+      
+      font-family: 'Times', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+  
+      
+      border: 1cap groove #1d7530dc;
+
+    }
+  
+    body main div a{
+      text-decoration: none;
+      color: rgb(74, 77, 243);
+      background-size: 80px;
+  
+    }
+   body main ul a{
+    
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    align-items: center;
+    }
+  
+  
+  
+    h1{
+      color: rgb(17, 17, 17);
+      background-position: contain;
+      background-color: rgba(34, 197, 56, 0.904);
+      
+        }
+  
+    h2{
+    color: rgb(149, 202, 26);
+      text-align: left;
+      margin-left: 6%;
+    }
+  
+    h3{
+      color: rgb(24, 36, 206);
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: left;
+      margin-left: 2%;
+      
+      
+    }
+  
+    img{
+      /*ancho de la imagen */
+          width: 350px;
+      /* height= altura del objeto*/
+    }
+    /* clases seimpre llevan . antes del nombre class*/
+   /* .realbooks{
+      height: 150px;
+    }
+  */
+    .kakashiimg{
+      width: 300px;
+      border-radius: 10px;
+      justify-self: left;
+    }
+  
